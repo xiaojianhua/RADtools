@@ -1,4 +1,17 @@
+#!/usr/bin/python2
+
 #this  structure format, which puts all individuals genotype in one row.
+# Copyright 2017 xiaojianhua<xiaojianhua@xtbg.ac.cn; xiaojianhua89@gmails.com>
+# This file is vcf2structure.py
+# vcf2structure is free scripts: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# vcf2structure.py  is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+
 import numpy as np
 import glob
 import os
